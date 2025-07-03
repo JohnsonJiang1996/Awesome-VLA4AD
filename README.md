@@ -60,7 +60,8 @@ A snapshot of the field’s evolution through four successive stages—from VLM-
 *Figure 3. Progression of VLA4AD models: (1) VLMs as passive explainers; (2) Modular VLA with intermediate representations; (3) End-to-end VLA mapping sensors directly to actions; (4) Augmented VLA with long-horizon reasoning and tool use.*
 
 The following table shows the representative models of VLA4AD and their inside modules:
-![T](./figs/table1.png)  
+
+![T](./figs/table1VLA4AD.png)  
 *Table 1. Representative VLA4AD Models (2023–2025). Sensor Inputs: Single = single forward-facing camera input; Multi = multi-view
 camera input; State = vehicle state information & other sensor input. Outputs: LLC= low-level control, Traj.= future trajectory, Multi.=
 multiple tasks such as perception, prediction or planning.*
