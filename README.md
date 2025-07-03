@@ -4,7 +4,7 @@
 
 Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of research papers and resources on Vision–Language–Action models for Autonomous Driving (VLA4AD). This repository tracks the latest advances in VLA4AD, from explanatory perception modules to end-to-end reasoning and control architectures.
 
-Our latest survey is out [here](https://arxiv.org/abs/2506.24044)! We invite your feedback and discussion.
+Our latest survey is out! [A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/abs/2506.24044) We invite your feedback and discussion.
 
 ⭐️ **Follow & Star** to stay up to date!  
 🤝 **Contributions welcome**—if you know of new papers, datasets, or tools, please open an issue or submit a PR.  
