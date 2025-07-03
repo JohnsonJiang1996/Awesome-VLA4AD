@@ -92,7 +92,7 @@ multiple tasks such as perception, prediction or planning.*
 | Model          | Year |  Key Features                      | Link                                                             |
 | -------------- | ---- | ---------------------- | ---------------------------------------------------------------- |
 | ADriver-I      | 2023 | Diffusion-based World Model | https://arxiv.org/abs/2311.13549                                  |
-| EMMA           | 2024 | Detection + Planning   | https://arxiv.org/abs/2403.04593 / [Code](https://github.com/taco-group/OpenEMMA)  |
+| EMMA           | 2024 | Detection + Planning   | https://arxiv.org/abs/2410.23262 / [Code](https://github.com/taco-group/OpenEMMA)  |
 | CoVLA-Agent    | 2024 | Caption + Trajectory   | https://arxiv.org/abs/2408.10845 / [Code](https://turingmotors.github.io/covla-ad/)     |
 | SimLingo       | 2025 | Action Dreaming        | https://arxiv.org/abs/2503.09594 / [Code](https://github.com/RenzKa/simlingo) |
 | DiffVLA        | 2025 | Sparse-Dense Diffusion | https://arxiv.org/abs/2505.19381                                 |
