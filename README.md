@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b> Awesome Vision–Language–Action Models for Autonomous Driving </b></h2>
+  <h1><b> Awesome Vision–Language–Action Models for Autonomous Driving </b></h1>
   </div>
   
 <div align="center">
