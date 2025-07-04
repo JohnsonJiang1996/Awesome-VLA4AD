@@ -125,8 +125,8 @@ multiple tasks such as perception, prediction or planning.*
 
 | Name                   | Year | Modality                   | Task                      | URL                                       |
 | ---------------------- | ---- | -------------------------- | ------------------------- | ----------------------------------------- |
-| BDD100K / BDD-X        | 2018 | Video + Rationales         | Captioning, QA            | https://bdd-data.berkeley.edu/            |
-| nuScenes               | 2020 | Camera, LiDAR, Radar       | Detection, QA             | https://www.nuscenes.org/                 |
+| BDD100K / BDD-X        | 2018 | Video + Rationales         | Captioning, QA            | [bdd-data.berkeley.edu](http://bdd-data.berkeley.edu/)            |
+| nuScenes               | 2020 | Camera, LiDAR, Radar       | Detection, QA             | www.nuscenes.org                 |
 | Bench2Drive            | 2024 | CARLA Simulator            | Closed-loop Driving       | [Github](https://github.com/Thinklab-SJTU/Bench2Drive) |
 | Reason2Drive           | 2024 | Video–QA                   | CoT-Chain Consistency     | [Github](https://github.com/fudan-zvg/Reason2Drive)        |
 | Impromptu-VLA Dataset  | 2025 | Video + QA + Traj          | Corner-Case Testing       |[Github](https://github.com/ahydchh/Impromptu-VLA)|
