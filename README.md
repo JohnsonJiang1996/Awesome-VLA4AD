@@ -15,16 +15,16 @@ We invite your feedback and discussion!
 ---
 
 ## 📚 Table of Contents
-- [🔥 Motivation & Paradigm Shift](#motivation--paradigm-shift)  
-- [🚀 Overview of VLA4AD](#overview-of-vla4ad)  
-- [🏆 Awesome VLA4AD Papers](#awesome-vla4ad-papers)  
-  - [1️⃣ Pre-VLA: VLM as Explainers](#1-pre-vla-vlm-as-explainers)  
-  - [2️⃣ Modular VLA4AD](#2-modular-vla4ad)  
-  - [3️⃣ End-to-End VLA4AD](#3-end-to-end-vla4ad)  
-  - [4️⃣ Reasoning-Augmented VLA4AD](#4-reasoning-augmented-vla4ad)  
-- [📊 Datasets & Benchmarks](#datasets--benchmarks)  
-- [⚙️ Installation & Usage](#installation--usage)  
-- [📜 Citation](#citation)
+- [🔥 Motivation & Paradigm Shift](#-motivation--paradigm-shift)  
+- [🚀 Overview of VLA4AD](#-overview-of-vla4ad)  
+- [🏆 Awesome VLA4AD Papers](#-awesome-vla4ad-papers)  
+  - [1️⃣ Pre-VLA: VLM as Explainers](#-1-pre-vla-vlm-as-explainers)  
+  - [2️⃣ Modular VLA4AD](#-2-modular-vla4ad)  
+  - [3️⃣ End-to-End VLA4AD](#-3-end-to-end-vla4ad)  
+  - [4️⃣ Reasoning-Augmented VLA4AD](#-4-reasoning-augmented-vla4ad)  
+- [📊 Datasets & Benchmarks](#-datasets--benchmarks)  
+- [⚙️ Installation & Usage](#%EF%B8%8F-installation--usage)  
+- [📜 Citation](#-citation)
 
 ---
 ## 🔥 Motivation & Paradigm Shift
