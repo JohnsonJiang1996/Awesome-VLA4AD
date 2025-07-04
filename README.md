@@ -5,6 +5,7 @@
 <div align="center">
   
 [![arXiv](https://img.shields.io/badge/arXiv-2506.24044-B31B1B.svg?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.24044) [![GitHub stars](https://img.shields.io/github/stars/JohnsonJiang1996/Awesome-VLA4AD?style=social)](https://github.com/JohnsonJiang1996/Awesome-VLA4AD/stargazers) [![GitHub forks](https://img.shields.io/github/forks/JohnsonJiang1996/Awesome-VLA4AD?style=social)](https://github.com/JohnsonJiang1996/Awesome-VLA4AD/network)
+<a href="https://github.com/JohnsonJiang1996/Awesome-VLA4AD/issues"><img src="https://img.shields.io/github/issues/JohnsonJiang1996/Awesome-VLA4AD" alt="Issues Badge"/></a>
 <a href="https://github.com/JohnsonJiang1996/Awesome-VLA4AD/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/JohnsonJiang1996/Awesome-VLA4AD" alt="License Badge"/></a>
 </div>
 
