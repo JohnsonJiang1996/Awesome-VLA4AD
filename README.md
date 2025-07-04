@@ -1,6 +1,21 @@
-# Awesome Vision–Language–Action Models for Autonomous Driving 🚗
+<div align="center">
+  <h1><b> Awesome Vision–Language–Action Models for Autonomous Driving </b></h1>
+  </div>
+  
+<div align="center">
+  
 [![arXiv](https://img.shields.io/badge/arXiv-2506.24044-B31B1B.svg?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.24044) [![GitHub stars](https://img.shields.io/github/stars/JohnsonJiang1996/Awesome-VLA4AD?style=social)](https://github.com/JohnsonJiang1996/Awesome-VLA4AD/stargazers) [![GitHub forks](https://img.shields.io/github/forks/JohnsonJiang1996/Awesome-VLA4AD?style=social)](https://github.com/JohnsonJiang1996/Awesome-VLA4AD/network)
+</div>
 
+<div align="center">
+
+**[<a href="https://drive.google.com/file/d/14D1HGT0jUF-pqYuuEMZJCnPhTbDwaCk3/view?usp=sharing">Survey Slides</a>]**
+**[<a href="https://mp.weixin.qq.com/s/VTMYuAAFYNHX2t8lamcw3Q">自动驾驶之心解读</a>]**
+**[<a href="https://mp.weixin.qq.com/s/DwSDgrNNX_EnsuJPEW6xoQ">具身进化中文解读</a>]**
+**[<a href="https://zhuanlan.zhihu.com/p/1923912633192523592">知乎中文解读</a>]**
+
+
+</div>
 
 Welcome to **Awesome VLA4AD**—a curated, continuously updated collection of research papers and resources on Vision–Language–Action models for Autonomous Driving (VLA4AD). This repository tracks the latest advances in VLA4AD, from explanatory perception modules to end-to-end reasoning and control architectures.
 
