@@ -109,6 +109,7 @@ multiple tasks such as perception, prediction or planning.*
 | CoVLA-Agent    | 2024 | Caption + Trajectory   | https://arxiv.org/abs/2408.10845 / [Code](https://turingmotors.github.io/covla-ad/)     |
 | SimLingo       | 2025 | Action Dreaming        | https://arxiv.org/abs/2503.09594 / [Code](https://github.com/RenzKa/simlingo) |
 | DiffVLA        | 2025 | Sparse-Dense Diffusion | https://arxiv.org/abs/2505.19381                                 |
+| S4-Driver        | 2025 | Sparse 3D Representation | https://arxiv.org/abs/2505.24139                                 |
 
 ### 4️⃣ Reasoning-Augmented VLA4AD
 | Model          | Year |  Key Features                     | Link                                                             |
