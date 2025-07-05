@@ -29,6 +29,20 @@ Our latest survey is [here](https://arxiv.org/abs/2506.24044). We invite your fe
 
 ---
 
+
+## 📜 Citation
+
+If this project is useful in your work, we'd appreciate a star 🌟 and a citation of our paper.
+```
+@article{jiang2025survey,
+  title={A Survey on Vision-Language-Action Models for Autonomous Driving},
+  author={Jiang, Sicong and Huang, Zilin and Qian, Kangan and Luo, Ziang and Zhu, Tianze and Zhong, Yang and Tang, Yihong and Kong, Menglin and Wang, Yunlong and Jiao, Siwen and others},
+  journal={arXiv preprint arXiv:2506.24044},
+  year={2025}
+}
+```
+---
+
 ## 📚 Table of Contents
 - [🔥 Motivation & Paradigm Shift](#-motivation--paradigm-shift)  
 - [🚀 Overview of VLA4AD](#-overview-of-vla4ad)  
@@ -39,7 +53,6 @@ Our latest survey is [here](https://arxiv.org/abs/2506.24044). We invite your fe
   - [4️⃣ Reasoning-Augmented VLA4AD](#4%EF%B8%8F%E2%83%A3-reasoning-augmented-vla4ad)  
 - [📊 Datasets & Benchmarks](#-datasets--benchmarks)  
 - [⚙️ Installation & Usage](#%EF%B8%8F-installation--usage)  
-- [📜 Citation](#-citation)
 
 ---
 ## 🔥 Motivation & Paradigm Shift
@@ -145,14 +158,4 @@ cd Awesome-VLA4AD
 
 ---
 
-## 📜 Citation
 
-If this project is useful in your work, we'd appreciate a star 🌟 and a citation of our paper.
-```
-@article{jiang2025survey,
-  title={A Survey on Vision-Language-Action Models for Autonomous Driving},
-  author={Jiang, Sicong and Huang, Zilin and Qian, Kangan and Luo, Ziang and Zhu, Tianze and Zhong, Yang and Tang, Yihong and Kong, Menglin and Wang, Yunlong and Jiao, Siwen and others},
-  journal={arXiv preprint arXiv:2506.24044},
-  year={2025}
-}
-```
