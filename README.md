@@ -32,7 +32,7 @@ Our latest survey is [here](https://arxiv.org/abs/2506.24044). We invite your fe
 
 ## 📜 Citation
 
-If this project is useful in your work, we'd appreciate a star 🌟 and a citation of our paper.
+If this project is useful in your work, we'd appreciate a star 🌟 and a citation of our survey.
 ```
 @article{jiang2025survey,
   title={A Survey on Vision-Language-Action Models for Autonomous Driving},
