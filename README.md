@@ -14,6 +14,7 @@
 **[<a href="https://drive.google.com/file/d/1JZz7Y8qfwwP9NBcLhs-tyWCbr7Uk-AJP/view?usp=sharing">Survey Slides</a>]**
 **[<a href="https://mp.weixin.qq.com/s/VTMYuAAFYNHX2t8lamcw3Q">自动驾驶之心解读</a>]**
 **[<a href="https://mp.weixin.qq.com/s/DwSDgrNNX_EnsuJPEW6xoQ">具身进化中文解读</a>]**
+**[<a href="https://mp.weixin.qq.com/s/pq_PHr6GJu3BvzoKRDfLxw">焉知汽车中文解读</a>]**
 **[<a href="https://zhuanlan.zhihu.com/p/1923912633192523592">知乎中文解读</a>]**
 
 
