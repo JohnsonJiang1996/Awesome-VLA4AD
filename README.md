@@ -114,6 +114,7 @@ multiple tasks such as perception, prediction or planning.*
 | LangCoop       | 2025 | V2V Coordination       | https://arxiv.org/abs/2504.13406 / [Code](https://github.com/taco-group/LangCoop)  |
 | SafeAuto       | 2025 | Rule-based Safety      | https://arxiv.org/abs/2503.00211 / [Code](https://github.com/AI-secure/SafeAuto)  |
 | ReCogDrive     | 2025 | Diffusion + RL      |https://arxiv.org/abs/2506.08052 / [Code](https://github.com/xiaomi-research/recogdrive/)  |
+| WAM-Flow     | 2025 | Discrete Flow Matching     |https://arxiv.org/abs/2512.06112 / [Code](https://github.com/fudan-generative-vision/WAM-Flow)  |
 
 ### 3️⃣ End-to-End VLA4AD
 | Model          | Year |  Key Features                      | Link                                                             |
